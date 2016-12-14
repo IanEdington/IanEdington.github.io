@@ -1,0 +1,48 @@
+# Welcome to Jekyll!
+#
+# If you find yourself editing this file very often, consider using Jekyll's data files feature for the data you need to update frequently.
+#
+# access variables via {{ site.title }}, {{ site.email }}, ect.
+title: "Ian Edington"
+email: IanEdington@gmail.com
+twitter_username: IanEdington
+github_username:  IanEdington
+docker_username: ianed
+repository: https://github.com/IanEdington/IanEdington.github.io
+
+description: >
+  Working to make the world a better place.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://IanEdington.com" # the base hostname & protocol for your site, e.g. http://example.com
+help_url: https://IanEdington.com/help
+
+gauges_id: ""
+google_analytics_id: ""
+google_site_verification: ""
+
+collections:
+  recipes:
+    permalink: /recipes/:title/
+    output: true
+  posts:
+    permalink: /posts/:title/
+    output: true
+
+# Default YAML values
+defaults:
+-
+  scope:
+    path: "" # an empty string means all files in the project
+  values:
+    layout: "default"
+
+# Build settings
+timezone: America/Toronto
+markdown: kramdown
+highlighter: rouge
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .gitignore

@@ -1,7 +1,6 @@
 ---
 title: "Ian's Eggnog"
 description: "Best ever homemade Eggnog."
-layout: recipe
 date: 2016-12-14
 version: 1.0
 fbcomments: yes
