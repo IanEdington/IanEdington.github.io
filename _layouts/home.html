@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    {{ content }}
+
+    <h2>Recipes</h2>
+    <ul class="post-list">
+        {% for recipe in site.recipes %}
+            <li>
+                <span class="post-meta">{{ recipe.date | date: "%b %-d, %Y" }}</span>
+                <h3>
+                    <a class="post-link" href="{{ recipe.url | relative_url }}">{{ recipe.title | escape }}</a>
+                </h3>
+            </li>
+        {% endfor %}
+    </ul>
+
+</div>
