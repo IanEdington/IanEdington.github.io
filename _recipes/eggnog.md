@@ -1,12 +1,12 @@
 ---
 title: "Ian's Eggnog"
 description: "Best ever homemade Eggnog."
+layout: recipe
 date: 2016-12-14
 version: 1.0
 fbcomments: yes
 ---
 
-# Ian's Eggnog
 This is a recipe I've been making for a few years. It's still a work in progress but people have been asking me for it so here it is. Give me feedback and I will try to improve this recipe. Past versions will be available here.
 
 You need a thermometer for this recipe, preferably a candy thermometer. Unless someone has a trick for telling when milk reaches 160 degrees fahrenheit.
@@ -60,7 +60,7 @@ There are a lot of things that can go wrong with this recipe.
 Blender the mixture in batches on high for a minute or two without the vanilla been, cinnamon sticks, or cloves. Usually this will do the trick.
 
 ### Forgot to thaw the egg whites?
-Pick up a thing of egg whites from your grocery store and use them instead. You need about 400g (1.5 cups) but as little as 250g (1 cup) is fine.
+Pick up a carton of egg whites from your grocery store and use them instead. You need about 400g (1.5 cups) but as little as 250g (1 cup) is fine.
 
 [1]: http://lifehacker.com/whats-the-best-way-to-separate-an-egg-white-from-the-y-476479758
 [2]: http://www.wikihow.com/Temper-an-Egg

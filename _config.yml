@@ -4,6 +4,7 @@
 #
 # access variables via {{ site.title }}, {{ site.email }}, ect.
 title: "Ian Edington"
+lang: "en-ca"
 email: IanEdington@gmail.com
 twitter_username: IanEdington
 github_username:  IanEdington
@@ -19,13 +20,16 @@ help_url: https://IanEdington.com/help
 gauges_id: ""
 google_analytics_id: ""
 google_site_verification: ""
+facebook:
+  appId: 391812937836612
+  sdkVersion: v2.8
 
 collections:
   recipes:
-    permalink: /recipes/:title/
+    permalink: /recipe/:title/
     output: true
   posts:
-    permalink: /posts/:title/
+    permalink: /post/:title/
     output: true
 
 # Default YAML values
