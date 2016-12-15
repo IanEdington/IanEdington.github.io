@@ -4,7 +4,6 @@
 #
 # access variables via {{ site.title }}, {{ site.email }}, ect.
 title: "Ian Edington"
-lang: "en-ca"
 email: IanEdington@gmail.com
 twitter_username: IanEdington
 github_username:  IanEdington
