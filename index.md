@@ -8,4 +8,4 @@ layout: home
 
 # Welcome
 
-Hi, my name is Ian. I'm a tech entrepreneur who enjoys socially repronsible investing, cooking, and coding. This site serves as my main portfolio, resume and collection of writtings.
+Hi, my name is Ian. I'm a tech entrepreneur who enjoys socially responsible investing, cooking, and coding. This site serves as my main portfolio, resume and collection of writing.
