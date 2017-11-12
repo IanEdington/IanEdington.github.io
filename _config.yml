@@ -27,6 +27,9 @@ collections:
   recipes:
     permalink: /recipe/:title/
     output: true
+  software-posts:
+    permalink: /software/:title/
+    output: true
   posts:
     permalink: /post/:title/
     output: true

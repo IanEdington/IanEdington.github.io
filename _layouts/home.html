@@ -18,4 +18,16 @@ layout: default
         {% endfor %}
     </ul>
 
+    <h2>Software Development</h2>
+    <ul class="post-list">
+        {% for software-post in site.software-posts %}
+            <li>
+                <span class="post-meta">{{ software-post.date | date: "%b %-d, %Y" }}</span>
+                <h3>
+                    <a class="post-link" href="{{ software-post.url | relative_url }}">{{ software-post.title | escape }}</a>
+                </h3>
+            </li>
+        {% endfor %}
+    </ul>
+
 </div>
